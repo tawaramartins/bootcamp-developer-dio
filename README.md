@@ -4,9 +4,8 @@
     <br>
 </h1>
 
-<p align="center">Aqui contém os módulos, desafios e projetos feitos nos bootcamps.</p>
+<p align="center">Aqui contém os módulos, desafios e projetos feitos nos bootcamps da Digital Innovation One.</p>
 
-<h1>Eduzz Fullstack Developer</h1>
 
 
 
