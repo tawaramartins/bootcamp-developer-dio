@@ -3,7 +3,7 @@
     <img alt="LOGO" height="90px" src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" />
     <br>
 </h1>
-### Legenda 
+
 
 <p align="center">Aqui você encontrará os módulos, desafios e projetos feitos nos bootcamps da Digital Innovation One.</p>
 
