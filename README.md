@@ -32,7 +32,7 @@
         <td>Aula</td>
     </tr>
     <tr>
-        <td>🔵</td>
+        <td>🟢</td>
         <td>Introdução ao Git e ao Github</td>
         <td>4h</td>
         <td>Básico</td>
@@ -142,7 +142,7 @@
         <td>Aula</td>
     </tr>
     <tr>
-       <td>🔵</td>
+       <td>🟢</td>
         <td>Introdução ao Git e ao Github</td>
         <td>4h</td>
         <td>Básico</td>
