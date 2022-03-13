@@ -149,7 +149,7 @@
         <td>Aula</td>
     </tr>
     <tr>
-        <td>🔴</td>
+        <td>🟢</td>
         <td>Primeiros passos para o desenvolvimento web</td>
         <td>6h</td>
         <td>Basico</td>
