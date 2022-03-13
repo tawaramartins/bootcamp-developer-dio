@@ -170,7 +170,7 @@
         <td>Aula</td>
     </tr>
     <tr>
-        <td>🔴</td>
+        <td>🟢</td>
         <td>IDE Instalação e Configuração (Visual Studio Code)</td>
         <td>1h</td>
         <td>Básico</td>
@@ -198,7 +198,7 @@
         <td>Aula</td>
     </tr>
     <tr>
-        <td>🔴</td>
+        <td>🟢</td>
         <td>Variaveis e tipos</td>
         <td>3h</td>
         <td>Básico</td>
