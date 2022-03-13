@@ -128,7 +128,7 @@
         <td>Aula</td>
     </tr>
      <tr>
-         <td>🔴</td>
+         <td>🟢</td>
         <td>Primeiros Passos Para Começar a Programar</td>
         <td>4h</td>
         <td>Básico</td>
