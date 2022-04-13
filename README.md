@@ -7,6 +7,8 @@
 
 <h3 align="center">Planos de Estudos - Bootcamp HTML Developer</h3>
 
+Aprenda a programar páginas de internet e desenvolver websites utilizando HTML, CSS e JavaScript para iniciar sua trajetória profissional em desenvolvimento web front-end.
+
 <table align="center">
     <tr>
         <td>Status</td>
@@ -96,6 +98,8 @@
 
 <h3 align="center">Planos de Estudos - Bootcamp Spread Fullstack Developer</h3>
 
+O Bootcamp Spread Fullstack Developer é um programa gratuito para pessoas desenvolvedoras que querem começar sua jornada em desenvolvimento de software com uma base sólida em tecnologias essenciais em front-end quanto e back-end.
+
 <table align="center">
     <tr>
         <td>Status</td>
@@ -106,7 +110,7 @@
     </tr>
     <tr>
         <td>🟢</td>
-        <td>Boas-vindas ao Bootcamp Take Blip Web Developer</td>
+        <td>Boas-vindas ao Bootcamp Spread Fullstack Developer</td>
         <td>1h</td>
         <td>Básico</td>
         <td>Aula</td>
@@ -125,26 +129,19 @@
         <td>Básico</td>
         <td>Aula</td>
     </tr>
-     <tr>
-         <td>🟢</td>
-        <td>Primeiros Passos Para Começar a Programar</td>
-        <td>4h</td>
-        <td>Básico</td>
-        <td>Aula</td>
-    </tr>
-    <tr>
-        <td>🔴</td>
-        <td>Estrutura de dados e algoritmos</td>
-        <td>2h</td>
-        <td>Intermediario</td>
-        <td>Aula</td>
-    </tr>
     <tr>
        <td>🟢</td>
         <td>Introdução ao Git e ao Github</td>
         <td>4h</td>
         <td>Básico</td>
         <td>Aula</td>
+    </tr>
+     <tr>
+       <td>🟢</td>
+        <td>Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso</td>
+        <td>1h</td>
+        <td>Básico</td>
+        <td>Desafio de Projeto</td>
     </tr>
     <tr>
         <td>🟢</td>
@@ -162,29 +159,22 @@
     </tr>
     <tr>
         <td>🔴</td>
-        <td>Construindo páginas para internet com Bootstrap</td>
+        <td>Posicionando elementos com Flexbox em CSS</td>
         <td>4h</td>
         <td>Básico</td>
         <td>Aula</td>
     </tr>
     <tr>
-        <td>🟢</td>
-        <td>IDE Instalação e Configuração (Visual Studio Code)</td>
+        <td>🔴</td>
+        <td>Recriando a página inicial do Instagram</td>
         <td>1h</td>
         <td>Básico</td>
-        <td>Aula</td>
+        <td>Projeto</td>
     </tr>
-    <tr>
+    <tr> 
         <td>🔴</td>
         <td>Introdução ao JavaScript</td>
         <td>3h</td>
-        <td>Básico</td>
-        <td>Aula</td>
-    </tr>
-     <tr>
-        <td>🔴</td>
-        <td>Sintaxe basica do JavaScript</td>
-        <td>2h</td>
         <td>Básico</td>
         <td>Aula</td>
     </tr>
@@ -226,13 +216,20 @@
     <tr>
         <td>🔴</td>
         <td>JavaScript Assincrono</td>
-        <td>2h</td>
+        <td>1h</td>
         <td>Básico</td>
         <td>Aula</td>
     </tr>
     <tr>
         <td>🔴</td>
         <td>Orientação a objetos</td>
+        <td>1h</td>
+        <td>Básico</td>
+        <td>Aula</td>
+    </tr>
+     <tr>
+        <td>🔴</td>
+        <td>Trabalhando com Módulos em JavaScript</td>
         <td>1h</td>
         <td>Básico</td>
         <td>Aula</td>
@@ -253,36 +250,130 @@
     </tr>
     <tr>
         <td>🔴</td>
-        <td>Resolvendo desafios com JavaScript</td>
+        <td>Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces</td>
+        <td>2h</td>
+        <td>intermediário</td>
+        <td>Aula</td>
+    </tr>
+     <td>🔴</td>
+        <td>Desafios Iniciais js - Spread Fullstack</td>
         <td>1h</td>
         <td>Básico</td>
         <td>Desafio</td>
     </tr>
     <tr>
         <td>🔴</td>
-        <td>Construindo um jogo de naves</td>
-        <td>4h</td>
-        <td>Intermediario</td>
+        <td>Aprenda a criar um sistema de estacionamento usando TypeScript</td>
+        <td>2h</td>
+        <td>Básico</td>
         <td>Projeto</td>
     </tr>
     <tr>
         <td>🔴</td>
-        <td>MySQL - Trabalhando com as suas primeiras tabelas </td>
+        <td>Introdução ao ReactJS</td>
+        <td>3h</td>
+        <td>Básico</td>
+        <td>Aula</td>
+    </tr>
+    <tr>
+        <td>🔴</td>
+        <td>Introdução aos React Hooks</td>
+        <td>5h</td>
+        <td>Básico</td>
+        <td>intermediário</td>
+    </tr>
+    <tr>
+        <td>🔴</td>
+        <td>Trabalhando com States & Effects no ReactJs</td>
         <td>2h</td>
         <td>Básico</td>
         <td>Aula</td>
     </tr>
     <tr>
         <td>🔴</td>
-        <td>MySQL - Explorando relacionamentos com Workbench</td>
+        <td>Desenvolvimento de aplicações para internet com ReactJS</td>
+        <td>4h</td>
+        <td>intermediário</td>
+        <td>Aula</td>
+    </tr>
+    <tr>
+        <td>🔴</td>
+        <td>Desafios Intermediários Js - Spread FullStack</td>
+        <td>1h</td>
+        <td>Básico</td>
+        <td>Aula</td>
+    </tr><tr>
+        <td>🔴</td>
+        <td>Práticas avançadas em projetos com ReactJS</td>
+        <td>4h</td>
+        <td>Avançado</td>
+        <td>Aula</td>
+    </tr><tr>
+        <td>🔴</td>
+        <td>Introdução a Redux com ReactJS</td>
+        <td>4h</td>
+        <td>Básico</td>
+        <td>Aula</td>
+    </tr><tr>
+        <td>🔴</td>
+        <td>Criando um front-end totalmente componentizado na prática com ReactJS</td>
+        <td>1h</td>
+        <td>intermediário</td>
+        <td>Projeto</td>
+    </tr><tr>
+        <td>🔴</td>
+        <td>MySql - Trabalhando com as suas primeiras tabelas</td>
+        <td>2h</td>
+        <td>Básico</td>
+        <td>Aula</td>
+    </tr><tr>
+        <td>🔴</td>
+        <td>MySQL - Consultas com Join</td>
         <td>2h</td>
         <td>Básico</td>
         <td>Aula</td>
     </tr>
     <tr>
         <td>🔴</td>
-        <td>MySQL - Consultas com join</td>
+        <td>Introdução a APIs e métodos HTTP</td>
         <td>2h</td>
         <td>Básico</td>
         <td>Aula</td>
+    </tr>
+     <tr>
+        <td>🔴</td>
+        <td>Desenvolvimento back-end com Node.js</td>
+        <td>5h</td>
+        <td>intermediário</td>
+        <td>Aula</td>
+    </tr> <tr>
+        <td>🔴</td>
+        <td>Introdução ao Node.js com Express</td>
+        <td>2h</td>
+        <td>Básico</td>
+        <td>Aula</td>
+    </tr> <tr>
+        <td>🔴</td>
+        <td>Desafios Finais Js - Spread FullStack</td>
+        <td>1h</td>
+        <td>Básico</td>
+        <td>Desafio</td>
+    </tr>v <tr>
+        <td>🔴</td>
+        <td>Explorando o Estilo Arquitetural REST com Node.js</td>
+        <td>2h</td>
+        <td>intermediário</td>
+        <td>Aula</td>
+    </tr>v <tr>
+        <td>🔴</td>
+        <td>Node.js com Bancos de Dados Relacionais (SQL)</td>
+        <td>2h</td>
+        <td>intermediário</td>
+        <td>Aula</td>
+    </tr> <tr>
+        <td>🔴</td>
+        <td>Construindo Encurtador de URL</td>
+        <td>2h</td>
+        <td>Básico</td>
+        <td>Projeto</td>
     </tr>
