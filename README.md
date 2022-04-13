@@ -1,9 +1,7 @@
-
 <h1 align="center">
     <img alt="LOGO" height="90px" src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" />
     <br>
 </h1>
-
 
 <p align="center">Aqui você encontrará os módulos, desafios e projetos feitos nos bootcamps da <a href="https://www.dio.me">Digital Innovation One</a>.</p>
 
@@ -96,7 +94,7 @@
     </tr>
 </table>
 
-<h3 align="center">Planos de Estudos - Bootcamp Take Blip Web Developer</h3>
+<h3 align="center">Planos de Estudos - Bootcamp Spread Fullstack Developer</h3>
 
 <table align="center">
     <tr>
@@ -288,5 +286,3 @@
         <td>Básico</td>
         <td>Aula</td>
     </tr>
-    
-    
