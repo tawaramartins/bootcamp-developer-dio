@@ -7,6 +7,8 @@
 
 <h3 align="center">Planos de Estudos - Bootcamp HTML Developer</h3>
 
+![HTML](https://hermes.digitalinnovation.one/tracks/cover/d11b764d-ee76-488b-995c-9d801457b957.png)
+
 Aprenda a programar páginas de internet e desenvolver websites utilizando HTML, CSS e JavaScript para iniciar sua trajetória profissional em desenvolvimento web front-end.
 
 <table align="center">
@@ -46,7 +48,7 @@ Aprenda a programar páginas de internet e desenvolver websites utilizando HTML,
         <td>Aula</td>
     </tr>
      <tr>
-        <td>🔴</td>
+        <td>🟢</td>
         <td>Recriando a página inicial do Instagram</td>
         <td>2h</td>
         <td>Básico</td>
@@ -97,6 +99,8 @@ Aprenda a programar páginas de internet e desenvolver websites utilizando HTML,
 </table>
 
 <h3 align="center">Planos de Estudos - Bootcamp Spread Fullstack Developer</h3>
+
+![Spread](https://hermes.digitalinnovation.one/tracks/cover/39059f17-d9b9-42b6-ba60-ef749f7d472d.png)
 
 O Bootcamp Spread Fullstack Developer é um programa gratuito para pessoas desenvolvedoras que querem começar sua jornada em desenvolvimento de software com uma base sólida em tecnologias essenciais em front-end quanto e back-end.
 
@@ -165,7 +169,7 @@ O Bootcamp Spread Fullstack Developer é um programa gratuito para pessoas desen
         <td>Aula</td>
     </tr>
     <tr>
-        <td>🔴</td>
+        <td>🟢</td>
         <td>Recriando a página inicial do Instagram</td>
         <td>1h</td>
         <td>Básico</td>
