@@ -54,7 +54,7 @@ Aprenda a programar páginas de internet e desenvolver websites utilizando HTML,
         <td>Recriando a página inicial do Instagram</td>
         <td>2h</td>
         <td>Básico</td>
-        <td>Projeto</td>
+         <td><a href="https://github.com/tawaramartins/clone-instagram">Projeto</a></td>
     </tr>
      <tr>
         <td>🔴</td>
@@ -150,7 +150,7 @@ O Bootcamp Spread Fullstack Developer é um programa gratuito para pessoas desen
         <td>Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso</td>
         <td>1h</td>
         <td>Básico</td>
-        <td>Desafio de Projeto</td>
+         <td><a href="https://github.com/tawaramartins/bootcamp-developer-dio">Desafio de Projeto</a></td>
     </tr>
     <tr>
         <td>🟢</td>
@@ -178,7 +178,7 @@ O Bootcamp Spread Fullstack Developer é um programa gratuito para pessoas desen
         <td>Recriando a página inicial do Instagram</td>
         <td>1h</td>
         <td>Básico</td>
-        <td>Projeto</td>
+        <td><a href="https://github.com/tawaramartins/clone-instagram">Projeto</a></td>
     </tr>
     <tr> 
         <td>🟢</td>
