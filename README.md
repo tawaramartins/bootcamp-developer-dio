@@ -181,7 +181,7 @@ O Bootcamp Spread Fullstack Developer é um programa gratuito para pessoas desen
         <td>Projeto</td>
     </tr>
     <tr> 
-        <td>🔴</td>
+        <td>🟢</td>
         <td>Introdução ao JavaScript</td>
         <td>3h</td>
         <td>Básico</td>
@@ -261,7 +261,7 @@ O Bootcamp Spread Fullstack Developer é um programa gratuito para pessoas desen
         <td>🔴</td>
         <td>Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces</td>
         <td>2h</td>
-        <td>intermediário</td>
+        <td>Intermediário</td>
         <td>Aula</td>
     </tr>
      <td>🔴</td>
@@ -289,7 +289,7 @@ O Bootcamp Spread Fullstack Developer é um programa gratuito para pessoas desen
         <td>Introdução aos React Hooks</td>
         <td>5h</td>
         <td>Básico</td>
-        <td>intermediário</td>
+        <td>Intermediário</td>
     </tr>
     <tr>
         <td>🔴</td>
@@ -302,7 +302,7 @@ O Bootcamp Spread Fullstack Developer é um programa gratuito para pessoas desen
         <td>🔴</td>
         <td>Desenvolvimento de aplicações para internet com ReactJS</td>
         <td>4h</td>
-        <td>intermediário</td>
+        <td>Intermediário</td>
         <td>Aula</td>
     </tr>
     <tr>
@@ -327,7 +327,7 @@ O Bootcamp Spread Fullstack Developer é um programa gratuito para pessoas desen
         <td>🔴</td>
         <td>Criando um front-end totalmente componentizado na prática com ReactJS</td>
         <td>1h</td>
-        <td>intermediário</td>
+        <td>Intermediário</td>
         <td>Projeto</td>
     </tr><tr>
         <td>🔴</td>
@@ -353,7 +353,7 @@ O Bootcamp Spread Fullstack Developer é um programa gratuito para pessoas desen
         <td>🔴</td>
         <td>Desenvolvimento back-end com Node.js</td>
         <td>5h</td>
-        <td>intermediário</td>
+        <td>Intermediário</td>
         <td>Aula</td>
     </tr> <tr>
         <td>🔴</td>
@@ -371,13 +371,13 @@ O Bootcamp Spread Fullstack Developer é um programa gratuito para pessoas desen
         <td>🔴</td>
         <td>Explorando o Estilo Arquitetural REST com Node.js</td>
         <td>2h</td>
-        <td>intermediário</td>
+        <td>Intermediário</td>
         <td>Aula</td>
     </tr>v <tr>
         <td>🔴</td>
         <td>Node.js com Bancos de Dados Relacionais (SQL)</td>
         <td>2h</td>
-        <td>intermediário</td>
+        <td>Intermediário</td>
         <td>Aula</td>
     </tr> <tr>
         <td>🔴</td>
