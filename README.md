@@ -7,8 +7,10 @@
 
 <h3 align="center">Planos de Estudos - Bootcamp HTML Developer</h3>
 
-![HTML](https://hermes.digitalinnovation.one/tracks/cover/d11b764d-ee76-488b-995c-9d801457b957.png)
-
+<div align="center" >
+    <img height="300px" src="https://hermes.digitalinnovation.one/tracks/cover/d11b764d-ee76-488b-995c-9d801457b957.png" alt="Bootcamp Developer" />
+ </div>
+ 
 Aprenda a programar páginas de internet e desenvolver websites utilizando HTML, CSS e JavaScript para iniciar sua trajetória profissional em desenvolvimento web front-end.
 
 <table align="center">
@@ -100,7 +102,10 @@ Aprenda a programar páginas de internet e desenvolver websites utilizando HTML,
 
 <h3 align="center">Planos de Estudos - Bootcamp Spread Fullstack Developer</h3>
 
-![Spread](https://hermes.digitalinnovation.one/tracks/cover/39059f17-d9b9-42b6-ba60-ef749f7d472d.png)
+
+<div align="center" >
+    <img height="300px" src="https://hermes.digitalinnovation.one/tracks/cover/39059f17-d9b9-42b6-ba60-ef749f7d472d.png" alt="Bootcamp Spread">
+ </div>
 
 O Bootcamp Spread Fullstack Developer é um programa gratuito para pessoas desenvolvedoras que querem começar sua jornada em desenvolvimento de software com uma base sólida em tecnologias essenciais em front-end quanto e back-end.
 
